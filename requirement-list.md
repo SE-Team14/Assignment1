@@ -1,4 +1,14 @@
 ## Requirement List
+58353
+
+한혜수 : 회원 가입, 회원 탈퇴, 로그인/로그아웃, 대여소 등록/조회/삭제 기능 Requirement list, usecase-description, diagram 작성 및 검토
+
+강성재 : 자전거 등록/조회/삭제, 대여소 검색, 상세 정보 조회 및 자전거 즉시대여/예약 대기 기능 Requirement list, usecase-description, diagram 작성 및 검토
+
+최서지 : 자전거 대여 정보 조회, 자전거 예약 대기 정보 조회/취소,  자전거 반납 및 식당 예약 서비스 연계 기능 Requirement list, usecase-description, diagram 작성 및 검토
+
+이호연: 결제 및 요금 조회 기능, 이용 내역 조회/삭제 기능, 통계 기능Requirement list, usecase-description, diagram 작성 및 검토
+
 
 | No. | Requirement | Use Case(s) |
 |------|------|------|
